@@ -1,0 +1,37 @@
+body{
+    background-image: url(images/4.jpg);
+    align-content: center;
+
+}
+img{
+    width: 3px;
+    height: 2px;
+    border-radius: 50%;
+}
+main{
+    backdrop-filter: blur(5px);
+}
+.about{
+    border-radius: 4%;
+    background-color: antiquewhite;
+}
+form{
+    background-color: antiquewhite;
+    padding: 10px 20px;
+    border: 2px;
+    border-radius: 10px 20px;
+}
+footer{
+    align-content: center;
+    height: 100px;
+    background-color: rgb(107, 92, 92);
+    border-radius: 30px;
+img{
+    width: 4px;
+    height: 4px;
+};
+}
+a{
+    color: rgb(8, 244, 32);
+}
+.logo {color:red; text-decoration:indianred; font-weight:700}
